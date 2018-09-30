@@ -71,7 +71,7 @@ elif str(month2) == "9":
 elif str(month2) == "10":
     month2 = int(january+february+march+april+may+june+july+august+september+october)
 elif str(month2) == "11":
-    month = int(january+february+march+april+may+june+july+august+september+october+november)
+    month2 = int(january+february+march+april+may+june+july+august+september+october+november)
 elif str(month2) == "12":
     month2 = int(january+february+march+april+may+june+july+august+september+october+november+december)    
 day2 = time2[2]
